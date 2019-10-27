@@ -1,0 +1,5 @@
+<library path="lib/libglobalplanner_lib">
+  <class name="globalplanner/GlobalPlanner" type="globalplanner::GlobalPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a global planner plugin by truck-trailer robot project</description>
+  </class>
+ </library>
